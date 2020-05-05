@@ -2,7 +2,7 @@
     {
     "sites": [
         "http://www.google.com",
-        "http://localhost:8888"
+        "localhost:8888"
     ]
     }
 ]
